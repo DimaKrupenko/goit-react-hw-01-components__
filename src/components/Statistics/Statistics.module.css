@@ -1,0 +1,14 @@
+.statistics {
+  margin-left: 50px;
+}
+
+.statList {
+  display: flex;
+  width: 100px;
+  padding-left: 0;
+  gap: 20px;
+}
+
+.percentage {
+  display: flex;
+}
